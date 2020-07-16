@@ -49,6 +49,16 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+header {
+    border-top: 2px solid #0F4C81
+    font-size 4em;
+    font-family:"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px; 
+    color:#000;
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: 1em;
