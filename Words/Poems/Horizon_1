@@ -1,0 +1,48 @@
+<!-- Document Type HTML -->
+
+
+<html>
+      <head>
+            <title> Horizon_1 </title>
+            <link rel="stylesheet" text = "text/css" href="/css/main.css">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      </head>
+      
+      <body>
+	    <header>
+    			
+		<h2><a href="/">Roger Gonzalez Martinez</a></h2>
+    			
+	</header>
+		
+	<nav>
+    	<ul>
+		<!--<li><a href="/">Home</a></li>-->
+	        <li><a href="/About.html">About</a></li>
+		<li><a href="/Words/Words.html">Words</a></li>
+		<li><a href="/Numbers/Numbers.html">Numbers</a></li>
+		<li><a href="/Books/Books.html">Bookshelf</a></li>
+        	<li><a href="mailto:roger.gonzalez.martinez@gmail.com">Email</a></li>
+        	<li><a href="https://github.com/regon94">Github</a></li>
+	</ul>
+      
+            <h2>Barefaced</h2>
+            <p>
+               
+               The incessant pull of the horizon<br>
+               like gravity to the mind<br>
+               eliminates the boundaries of thought in my kind<br>
+               through these new possibilities we become again<br>
+               <br>
+               The everlasting requires no myth<br>
+               though great descriptions have been writ<br>
+               it's the silence that draws me closer<br>
+               An undisturbed pool with an edge of light<br>
+               The son will silence the waves tonight<br>
+               tomorrow the symphony begins again<br>
+               another step forward, no less remain<br>
+               <br>
+            </p>
+            
+      </body>
+</html>
