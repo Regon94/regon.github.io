@@ -4,7 +4,7 @@ body {
 }
 nav ul, footer ul {
     font-family:"Bodoni MT";<--!"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->
-    font-size: 1.5em;
+    font-size: 3em;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -19,10 +19,10 @@ ul li {
 }
 a {
     text-decoration: none;
-    color: #000;
+    color:  #45b69c;
 }
 a:hover {
-    text-decoration: none;
+    text-decoration: underline;
     color: #45b69c;
 }
 
