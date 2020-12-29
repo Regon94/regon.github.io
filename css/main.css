@@ -11,7 +11,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 1em;
     list-style:none;
 }
 ul li {
@@ -90,8 +90,7 @@ footer {
 .Poem{
     font-size 2em;
     font-family: "Merriweather", serif;
-    color: #232323;
-    background-color: #F6F6F6;    
+    color: #232323;  
 }
 
 ul.posts { 
