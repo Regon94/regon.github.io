@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:"Bodoni MT";<--!"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->
+    font-family:"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
     font-size: 3em;
     padding: 0px;
     list-style: none;
@@ -28,7 +28,7 @@ a:hover {
 
 h1 {
     font-size: 4em;
-    font-family:"Bodoni MT";<--!, Courier,monospace;-->
+    font-family:"Futura-pt", sans-serif;<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
@@ -37,7 +37,7 @@ h1 {
 }
 h2 {
     font-size: 2em;
-    font-family:"Bodoni MT";<--!, Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->
+    font-family: "Futura-pt", sans-serif;<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
@@ -46,7 +46,7 @@ h2 {
 }
 h3 {
     font-size: 1em;
-    font-family:"Bodoni MT";<--!, Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->
+    font-family:"Futura-pt", sans-serif;<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
@@ -62,7 +62,7 @@ p {
 header {
     border-top: 2px solid #0F4C81
     font-size 2em;
-    font-family:"Courier New", Courier, monospace;
+    font-family:"Bodoni MT";<--!"Courier New", Courier, monospace;-->
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
@@ -85,6 +85,12 @@ footer {
 .Bookshelf li:hover{
     text-decoration: underline;
     color: #45b69c;
+}
+
+.Poems{
+    font-size 2em;
+    font-family: "Merriweather", serif;
+    color: #000;    
 }
 
 ul.posts { 
