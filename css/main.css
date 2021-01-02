@@ -77,7 +77,7 @@ footer {
     font-size: 1em;
 }
 .Bookshelf{
-    font-size:  2em;
+    font-size:  1em;
     font-family:"Courier New",Courier,monospace;
      font-style: normal; 
     font-variant: normal; 
@@ -90,7 +90,7 @@ footer {
 }
 
 .Poem{
-    font-size: 2em;
+    font-size: 1em;
     font-family: "Merriweather", serif;
     color: #232323;  
 }
