@@ -28,30 +28,31 @@ a:hover {
 
 h1 {
     font-size: 4em;
-    font-family:"Futura-pt", sans-serif;<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->
+    font-family:"Futura-pt", sans-serif; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
     line-height: 20px; 
-    color:#000;
+    color: #1a1a1a;
 }
+
 h2 {
     font-size: 2em;
-    font-family: "Futura-pt", sans-serif;<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->
+    font-family: "Futura-pt", sans-serif; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
     line-height: 20px; 
-    color:#000;
+    color:#1a1a1a;
 }
 h3 {
     font-size: 1em;
-    font-family:"Futura-pt", sans-serif;<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->
+    font-family:"Futura-pt", sans-serif;
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
     line-height: 20px; 
-    color:#000;
+    color:#1a1a1a;
 }
 p {
     font-size: 1em;
@@ -60,22 +61,23 @@ p {
     color: #333;
 }
 header {
-    border-top: 2px solid #0F4C81
-    font-size 2em;
-    font-family:"Bodoni MT";<--!"Courier New", Courier, monospace;-->
+    border-top: 2px solid #0F4C81;
+    font-size: 2em;
+    font-family:"Bodoni MT";/*<--!"Courier New", Courier, monospace;-->*/
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
     line-height: 20px; 
-    color:#000;
+    color: #000000;
     margin-right: 20px;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: 1em;
 }
 .Bookshelf{
-    font-size  2em;
+    font-size:  2em;
     font-family:"Courier New",Courier,monospace;
      font-style: normal; 
     font-variant: normal; 
@@ -88,7 +90,7 @@ footer {
 }
 
 .Poem{
-    font-size 2em;
+    font-size: 2em;
     font-family: "Merriweather", serif;
     color: #232323;  
 }
