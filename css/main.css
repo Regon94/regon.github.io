@@ -92,7 +92,8 @@ footer {
 .Poem{
     font-size: 1em;
     font-family: "Merriweather", serif;
-    color: #232323;  
+    color: #232323; 
+    background-color: #d5d5d5; 
 }
 
 ul.posts { 
