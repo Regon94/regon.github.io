@@ -22,11 +22,11 @@ a {
     color:  #000;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
     color: #2D00F5;
 }
 
-.links{
+.link{
     text-decoration: underline;
     color:#2D00F5;
 }
