@@ -44,7 +44,7 @@ h1 {
 
 h2 {
     font-size: 2em;
-    font-family: "Futura-pt", sans-serif; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
+    font-family: "Merriweather", serif; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
@@ -53,7 +53,7 @@ h2 {
 }
 h3 {
     font-size: 1em;
-    font-family:"Futura-pt", sans-serif;
+    font-family:"Merriweather", serif;
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
@@ -62,7 +62,7 @@ h3 {
 }
 p {
     font-size: 1em;
-    font-family:"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-family:"Merriweather", serif;
     line-height: 1.4em;
     color: #2A3439;
 }
