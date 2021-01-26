@@ -23,7 +23,12 @@ a {
 }
 a:hover {
     text-decoration: underline;
-    color: #45b69c;
+    color: #2D00F5;
+}
+
+.links{
+    text-decoration: underline;
+    color:#2D00F5;
 }
 
 h1 {
@@ -33,7 +38,7 @@ h1 {
     font-variant: normal; 
     font-weight: 400; 
     line-height: 20px; 
-    color: #1a1a1a;
+    color: #2D00F5;
 }
 
 h2 {
@@ -43,7 +48,7 @@ h2 {
     font-variant: normal; 
     font-weight: 400; 
     line-height: 20px; 
-    color:#1a1a1a;
+    color:#2D00F5;
 }
 h3 {
     font-size: 1em;
@@ -52,13 +57,13 @@ h3 {
     font-variant: normal; 
     font-weight: 400; 
     line-height: 20px; 
-    color:#1a1a1a;
+    color:#2D00F5;
 }
 p {
     font-size: 1em;
     font-family:"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
     line-height: 1.4em;
-    color: #333;
+    color: #2A3439;
 }
 header {
     border-top: 2px solid #0F4C81;
@@ -86,14 +91,14 @@ footer {
 }
 .Bookshelf li:hover{
     text-decoration: underline;
-    color: #45b69c;
+    color: #2D00F5;
 }
 
-.Poem{
+.poem{
     font-size: 1em;
     font-family: "Merriweather", serif;
-    color: #232323; 
-    background-color: #d5d5d5; 
+    color: #2A3439; 
+    background-color: #FFF9FB; 
 }
 
 ul.posts { 
