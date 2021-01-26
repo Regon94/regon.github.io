@@ -6,9 +6,10 @@ body {
 nav ul, footer ul {
     font-family: "Lato", sans-serif;
     font-size: 1em;
-    padding: 0px;
+    padding: 10px;
     list-style: none;
     font-weight: 300;
+    background-color:# ;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -35,13 +36,14 @@ a:hover {
 }
 
 h1 {
-    font-size: 4em;
+    font-size: 2em;
     font-family:"Merriweather", serif; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
     line-height: 20px; 
     color: #2D00F5;
+    padding: 10px;
 }
 
 h2 {
@@ -88,7 +90,7 @@ footer {
 .Bookshelf{
     font-size:  1em;
     font-family:"Courier New",Courier,monospace;
-     font-style: normal; 
+    font-style: normal; 
     font-variant: normal; 
     line-height: 20px; 
     color:#2A3439;
@@ -102,7 +104,7 @@ footer {
     font-size: 1em;
     font-family: "Merriweather", serif;
     color: #2A3439; 
-    background-color: #Ffffff; 
+    background-color: #ffffff; 
 }
 
 ul.posts { 
