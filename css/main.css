@@ -71,12 +71,10 @@ p {
 }
 
 header {
-    border-top: 2px solid #2D00F5;
-    font-size: 2em;
-    font-family:"Bodoni MT";/*<--!"Courier New", Courier, monospace;-->*/
+    border-bottom: 3px solid #2D00F5;
+    /*<--!font-family:"Bodoni MT";"Courier New", Courier, monospace;-->*/
     font-style: normal; 
     font-variant: normal; 
-    font-weight: 400; 
     line-height: 20px; 
     color: #2A3439;
     margin-right: 20px;
