@@ -3,11 +3,11 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-family: "Lato", sans-serif;
     font-size: 1em;
     padding: 0px;
     list-style: none;
-    font-weight: bold;
+    font-weight: 300;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -33,7 +33,7 @@ a:hover {
 
 h1 {
     font-size: 4em;
-    font-family:"Futura-pt", sans-serif; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
+    font-family:"Merriweather", serif; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
     font-style: normal; 
     font-variant: normal; 
     font-weight: 400; 
