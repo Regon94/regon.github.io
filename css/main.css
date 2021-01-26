@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #ffffff;
+    background-color: white;
 }
 nav ul, footer ul {
     font-family: "Lato", sans-serif;
@@ -62,6 +62,16 @@ h3 {
     font-weight: 400; 
     line-height: 20px; 
     color:#2D00F5;
+    
+}
+h4 {
+    font-size: 1.5em;
+    font-family:"Merriweather", serif;
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px; 
+    color:#2A3439;
 }
 p {
     font-size: 1em;
@@ -90,7 +100,7 @@ footer {
     font-family:"Courier New",Courier,monospace;
     font-style: normal; 
     font-variant: normal; 
-    line-height: 20px; 
+    line-height: 1em; 
     color:#2A3439;
 }
 .Bookshelf li:hover{
