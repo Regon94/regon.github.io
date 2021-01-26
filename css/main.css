@@ -18,6 +18,9 @@ nav ul li, footer ul li {
 ul li {
     list-style:none;
 }
+#navigation_bar{
+    align-items: baseline;
+}
 a {
     text-decoration: none;
     color:  #2A3439;
