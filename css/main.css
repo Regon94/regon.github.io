@@ -105,7 +105,7 @@ footer {
     font-variant: normal; 
     line-height: 1.5em; 
     color:#2A3439;
-    list-style-type: disc;
+    list-style-type: circle;
 }
 .Bookshelf li:hover{
     text-decoration: underline;
