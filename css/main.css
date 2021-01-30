@@ -32,6 +32,7 @@ a:hover {
 .link{
     text-decoration: underline;
     color:#2D00F5;
+    font-weight:400;
 }
 
 h1 {
