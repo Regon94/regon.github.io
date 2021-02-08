@@ -13,10 +13,10 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 1em;
-    list-style:none;
 }
 ul li {
     list-style:none;
+    list-style-type:circle;
 }
 a {
     text-decoration: none;
@@ -80,7 +80,6 @@ p {
     line-height: 1.4em;
     color: #2A3439;
 }
-
 header {
     border-bottom: 2px solid #2D00F5;
     /*<--!font-family:"Bodoni MT";"Courier New", Courier, monospace;-->*/
@@ -90,7 +89,7 @@ header {
     width: 100%;
     display:flex;
     /* box-shadow: 0px 10px 0px hsl(240, 100%, 90%); */
-    padding: 0% 25% 0% 25%;
+    padding: 0% 20% 0% 20%;
 }
 .site-header__wrapper {
     display: flex;
@@ -103,7 +102,7 @@ footer {
     color:#2A3439;
 }
 main{
-    padding: 0% 25% 0% 25%;
+    padding: 0% 20% 0% 20%;
     
 }
 /*------------Bookshelf styling----------------*/
