@@ -82,7 +82,7 @@ p {
     color: #2A3439;
 }
 header {
-    border-bottom: 2px solid #2D00F5;
+    border-bottom: 1px solid #2D00F5;
     /*<--!font-family:"Bodoni MT";"Courier New", Courier, monospace;-->*/
     font-style: normal; 
     font-variant: normal; 
@@ -90,7 +90,7 @@ header {
     width: 100%;
     display:flex;
     /* box-shadow: 0px 10px 0px hsl(240, 100%, 90%); */
-    padding: 5% 20% 5% 20%;
+    padding: 10% 25% 10% 25%;
 }
 .site-header{
     display: flex;
