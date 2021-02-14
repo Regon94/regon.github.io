@@ -18,7 +18,7 @@ chart= new NetChart({
     "container": "demo",
     "data": [
         {
-            "url": "https:\/\/zoomcharts.com\/data\/ideas.json"
+            "url": "/Mind_Map_Data.json"
         }
     ],
     "toolbar": {
