@@ -133,3 +133,9 @@ main{
     color: #2A3439; 
     background-color: #ffffff; 
 }
+.image-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
