@@ -156,7 +156,7 @@ main{
     flex:1 0 0;
 }
 .highlight{
-    border-top:2px solid #0000f5;
+    border-top:1px solid #0000f5;
     text-align: center;
     width:30%;
 }
