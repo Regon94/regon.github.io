@@ -142,6 +142,10 @@ main{
     /* padding-top:10%;
     padding-bottom:10%;  */
 }
+.container-home-highlights{
+    padding: 5% 0% 5% 0%;
+    text-align: center;
+}
 .home-highlights{
     display:flex;
     flex-direction:row;
@@ -150,4 +154,5 @@ main{
 }
 .highlight{
     border-top:2px solid #2D00F5;
+    width:0;
 }
