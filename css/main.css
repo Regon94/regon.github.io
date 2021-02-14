@@ -134,7 +134,7 @@ main{
     background-color: #ffffff; 
 }
 .image-center{
-    display: block;
+    /* display: block; */
     margin-left: auto;
     margin-right: auto;
     width: 50%;
