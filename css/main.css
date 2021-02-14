@@ -90,7 +90,7 @@ header {
     width: 100%;
     display:flex;
     /* box-shadow: 0px 10px 0px hsl(240, 100%, 90%); */
-    padding: 10% 25% 10% 25%;
+    padding: 0% 20% 0% 20%;
 }
 .site-header{
     display: flex;
@@ -108,7 +108,7 @@ footer {
     color:#2A3439;
 }
 main{
-    padding: 0% 20% 0% 20%;
+    padding: 0% 25% 0% 25%;
     
 }
 /*------------Bookshelf styling----------------*/
