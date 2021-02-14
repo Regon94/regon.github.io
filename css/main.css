@@ -6,14 +6,14 @@ body {
 }
 nav ul, footer ul {
     font-family: "Lato", sans-serif;
-    font-size: 1em;
+    font-size: 1rem;
     padding: 10px;
     list-style: none;
     font-weight: 300;
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 1em;
+    margin-right: 1rem;
 }
 ul li {
     list-style:none;
@@ -37,18 +37,18 @@ a:hover {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 2rem;
     font-family:"Merriweather", serif; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
     font-style: normal; 
     font-variant: normal; 
-    font-weight: 400; 
+    font-weight: 300; 
     line-height: 20px; 
     color: #2A3439;
     padding: 10px;
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 2rem;
     font-family: "Merriweather", serif; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
     font-style: normal; 
     font-variant: normal; 
@@ -57,7 +57,7 @@ h2 {
     color:#2A3439;
 }
 h3 {
-    font-size: 1em;
+    font-size: 1rem;
     font-family:"Merriweather", serif;
     font-style: normal; 
     font-variant: normal; 
@@ -67,7 +67,7 @@ h3 {
     
 }
 h4 {
-    font-size: 1.5em;
+    font-size: 1.5rem;
     font-family:"Lato", sans-serif;
     font-style: normal; 
     font-variant: normal; 
@@ -76,9 +76,9 @@ h4 {
     color:#2A3439;
 }
 p {
-    font-size: 1em;
+    font-size: 1rem;
     font-family:"Merriweather", serif;
-    line-height: 1.4em;
+    line-height: 1.4rem;
     color: #2A3439;
 }
 header {
@@ -104,8 +104,7 @@ header {
     margin-left:auto;
 }
 footer {
-    border-top: 1px solid #ffffff;
-    font-size: 0.5em;
+    font-size: 0.5rem;
     color:#2A3439;
 }
 main{
@@ -114,11 +113,11 @@ main{
 }
 /*------------Bookshelf styling----------------*/
 .Bookshelf{
-    font-size:  1em;
+    font-size:  1rem;
     font-family:"Courier New",Courier,monospace;
     font-style: normal; 
     font-variant: normal; 
-    line-height: 1.5em; 
+    line-height: 1.5rem; 
     color:#2A3439;
     list-style-type: circle;
 }
@@ -128,7 +127,7 @@ main{
 }
 /*-----------Poetry Styling------------------*/
 .poem{
-    font-size: 1em;
+    font-size: 1rem;
     font-family: "Merriweather", serif;
     color: #2A3439; 
     background-color: #ffffff; 
@@ -137,13 +136,13 @@ main{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 70%;
     box-shadow: 5px 5px #0000f5;
     /* padding-top:10%;
     padding-bottom:10%;  */
 }
 .home-articles{
-    padding: 5% 0% 5% 0%;
+    padding: 2% 0% 2% 0%;
 }
 .container-home-highlights{
     text-align: center;
