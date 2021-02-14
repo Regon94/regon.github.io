@@ -82,6 +82,7 @@ p {
     color: #2A3439;
 }
 header {
+    position:fixed;
     border-bottom: 1px solid #0000f5;
     /*<--!font-family:"Bodoni MT";"Courier New", Courier, monospace;-->*/
     font-style: normal; 
@@ -109,7 +110,6 @@ footer {
 }
 main{
     padding: 0% 25% 0% 25%;
-    
 }
 /*------------Bookshelf styling----------------*/
 .Bookshelf{
