@@ -139,6 +139,6 @@ main{
     margin-right: auto;
     width: 50%;
     box-shadow: 10px 10px #2D00F5;
-    padding-top:10%;
-    padding-bottom:10%; 
+    /* padding-top:10%;
+    padding-bottom:10%;  */
 }
