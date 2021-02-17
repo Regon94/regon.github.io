@@ -158,3 +158,16 @@ main{
     text-align: center;
     width:30%;
 }
+
+@media only screen and (max-device-width:480px){
+    header{
+        width:100%;
+        padding: 0% 0% 0% 0%;
+    }
+
+    main{
+        width:100%;
+        padding: 0% 0% 0% 0%;
+    }
+
+}
