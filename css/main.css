@@ -162,12 +162,12 @@ main{
 @media only screen and (max-device-width:480px){
     header{
         width:100%;
-        padding: 0% 0% 0% 0%;
+        padding: 0% 2% 0% 2%;
     }
 
     main{
         width:100%;
-        padding: 0% 0% 0% 0%;
+        padding: 0% 5% 0% 5%;
     }
 
 }
