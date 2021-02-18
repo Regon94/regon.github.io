@@ -145,7 +145,7 @@ main{
 }
 .home-articles{
     padding: 2% 2% 2% 2%;
-    flex-grow:3;
+    flex-grow:2;
 }
 .container-home-highlights{
     text-align: center;
@@ -160,7 +160,8 @@ main{
 .highlight{
     border-top:1px solid #0000f5;
     text-align: center;
-    width:30%;
+    width:100%;
+    padding:2% 2% 2% 2%;
 }
 
 @media only screen and (max-device-width:480px){
@@ -175,6 +176,9 @@ main{
     }
     body{
         overflow-x: hidden;
+    }
+    .container-home-highlights{
+        display:hide;
     }
 
 }
