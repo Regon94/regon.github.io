@@ -46,7 +46,6 @@ h1 {
     color: #2A3439;
     padding: 10px;
 }
-
 h2 {
     font-size: 2rem;
     font-family: "Merriweather", serif; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
@@ -144,7 +143,7 @@ main{
 }
 .home-articles{
     margin: 2% 2% 2% 2%;
-    flex-grow:2;
+    flex-grow:1.5;
 }
 .container-home-highlights{
     text-align: center;
