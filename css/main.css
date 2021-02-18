@@ -159,7 +159,7 @@ main{
     border-top:1px solid #0000f5;
     text-align: center;
     width:100%;
-    padding:2% 2% 2% 2%;
+    padding:10% 2% 10% 2%;
 }
 /*-----------------mobile media------------------------*/
 @media only screen and (max-device-width:480px){
