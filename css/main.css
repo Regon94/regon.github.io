@@ -165,7 +165,7 @@ main{
 /*-----------------mobile media------------------------*/
 @media only screen and (max-device-width:480px){
     header{
-        width:100%;
+        width:100%;4s
         margin: 0% 2% 0% 2%;
     }
 
