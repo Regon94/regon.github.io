@@ -166,7 +166,7 @@ main{
     width:100%;
     padding:2% 2% 2% 2%;
 }
-
+/*-----------------mobile media------------------------*/
 @media only screen and (max-device-width:480px){
     header{
         width:100%;
@@ -175,7 +175,7 @@ main{
 
     main{
         width:100%;
-        padding: 0% 5% 0% 5%;
+        padding: 0% 2% 0% 2%;
     }
     body{
         overflow-x: hidden;
