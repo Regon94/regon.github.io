@@ -107,7 +107,7 @@ main{
     margin: 0% 0% 0% 0%;
 }
 .home-main{
-    margin: 0% 30% 0% 30%;
+/*     margin: 0% 30% 0% 30%; */
     display:flex;
     flex-direction:row;
     align-items:flex-start;
