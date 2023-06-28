@@ -76,7 +76,8 @@ p {
     font-size: 1rem;
     font-family:"ubuntu";
     line-height: 1.5rem;
-    color: #2A3439;
+/*     color: #2A3439; */
+    color:black;
 }
 header {
     border-bottom: 1px solid #0000f5;
