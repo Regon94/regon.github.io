@@ -38,9 +38,9 @@ a:hover {
 
 h1 {
     font-size: 2rem;
-    font-family:"Merriweather", serif; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
+    font-family:"ubuntu",; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
     font-style: normal; 
-    font-variant: normal; 
+    font-variant: medium; 
     font-weight: 300; 
     line-height: 20px; 
     color: #2A3439;
@@ -82,8 +82,8 @@ p {
 header {
     border-bottom: 1px solid #0000f5;
     /*<--!font-family:"Bodoni MT";"Courier New", Courier, monospace;-->*/
-    font-style: normal; 
-    font-variant: normal; 
+    font-style: ubuntu; 
+    font-variant: light; 
     line-height: 20px; 
     width: 100%;
     display:flex;
