@@ -1,6 +1,6 @@
 /* @import url('http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin'); */
 
-@font-face{
+@font-face {
     font-family: myUbuntu;
     src: url('http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin');
 }
@@ -81,7 +81,7 @@ h4 {
 }
 p {
     font-size: 1rem;
-    font-family:"ubuntu";
+    font-family:"myUbuntu";
     line-height: 1.5rem;
 /*     color: #2A3439; */
     color:black;
