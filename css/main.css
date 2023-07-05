@@ -1,4 +1,9 @@
-@import url('http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin');
+/* @import url('http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin'); */
+
+@font-face{
+    font-family: myUbuntu;
+    src: url('http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin');
+}
 
 body {
     margin: auto;
@@ -40,8 +45,8 @@ a:hover {
 
 h1 {
     font-size: 2rem;
-    font-family:"ubuntu",; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
-    font-style: normal; 
+    font-family:"myUbuntu",; /*<--!"Bodoni MT" Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;-->*/
+    font-style: sans-serif; 
     font-variant: medium; 
     font-weight: 300; 
     line-height: 20px; 
